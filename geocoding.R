@@ -1,4 +1,5 @@
-# load maine places data from googlesheets 
+# load from googlesheets and geocode new rows 
+
 # helpful examples: https://github.com/jennybc/googlesheets/tree/master/inst/shiny-examples
                   # https://stackoverflow.com/questions/32537882/adding-rows-to-a-google-sheet-using-the-r-package-googlesheets
 
